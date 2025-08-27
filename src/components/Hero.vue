@@ -4,8 +4,8 @@
       <div class="hero-grid">
         <!-- 左侧卡片：标题、文案与按钮 -->
         <div class="hero-card">
-          <h1 class="hero-title">Plan Your Education Journey & Learn...</h1>
-          <p class="hero-subtitle">Master financial literacy while planning your educational future. Get personalized cost estimates and learn essential money management skills for life.</p>
+          <h1 class="hero-title">Level Up Your Money Skills</h1>
+          <p class="hero-subtitle">Star t your financial journey wit h fun, interactive lessons. Learn budgeting, saving, and investingt hrough games and challenges. </p>
           <div class="hero-buttons">
             <button class="btn btn-primary">Get Started</button>
             <button class="btn btn-secondary">Learn Basics</button>
